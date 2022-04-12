@@ -1,0 +1,14 @@
+C:\Users\99470\source\repos\PolyHW\PolyHW\bin\Debug\netcoreapp3.1\PolyHW.exe
+C:\Users\99470\source\repos\PolyHW\PolyHW\bin\Debug\netcoreapp3.1\PolyHW.deps.json
+C:\Users\99470\source\repos\PolyHW\PolyHW\bin\Debug\netcoreapp3.1\PolyHW.runtimeconfig.json
+C:\Users\99470\source\repos\PolyHW\PolyHW\bin\Debug\netcoreapp3.1\PolyHW.runtimeconfig.dev.json
+C:\Users\99470\source\repos\PolyHW\PolyHW\bin\Debug\netcoreapp3.1\PolyHW.dll
+C:\Users\99470\source\repos\PolyHW\PolyHW\bin\Debug\netcoreapp3.1\PolyHW.pdb
+C:\Users\99470\source\repos\PolyHW\PolyHW\obj\Debug\netcoreapp3.1\PolyHW.csproj.AssemblyReference.cache
+C:\Users\99470\source\repos\PolyHW\PolyHW\obj\Debug\netcoreapp3.1\PolyHW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99470\source\repos\PolyHW\PolyHW\obj\Debug\netcoreapp3.1\PolyHW.AssemblyInfoInputs.cache
+C:\Users\99470\source\repos\PolyHW\PolyHW\obj\Debug\netcoreapp3.1\PolyHW.AssemblyInfo.cs
+C:\Users\99470\source\repos\PolyHW\PolyHW\obj\Debug\netcoreapp3.1\PolyHW.csproj.CoreCompileInputs.cache
+C:\Users\99470\source\repos\PolyHW\PolyHW\obj\Debug\netcoreapp3.1\PolyHW.dll
+C:\Users\99470\source\repos\PolyHW\PolyHW\obj\Debug\netcoreapp3.1\PolyHW.pdb
+C:\Users\99470\source\repos\PolyHW\PolyHW\obj\Debug\netcoreapp3.1\PolyHW.genruntimeconfig.cache
